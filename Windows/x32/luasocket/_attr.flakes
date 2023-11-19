@@ -1,0 +1,19 @@
+{
+	Description = "LuaSocket is a Lua extension library that is composed by two parts: a C core that provides support for the TCP and UDP transport layers, and a set of Lua modules that add support for functionality commonly needed by applications that deal with the Internet.",
+	Websites = {
+		"https://lunarmodules.github.io/luasocket/",
+		"https://github.com/lunarmodules/luasocket"
+	},
+	Architecture = "32",
+	OS = "Windows",
+	LuaVER = "5.3",
+	ModVER = "3.1.0",
+	Dependencies = {},
+	FileIndex = {
+		{"socket.lua","FILE","COMMON"},
+		{"mime.lua","FILE","COMMON"},
+		{"ltn12.lua","FILE","COMMON"},
+		{"socket","DIR","COMMON"},
+		{"mime","DIR","COMMON"},
+	}
+}
