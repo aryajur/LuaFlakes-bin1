@@ -1,0 +1,16 @@
+{
+	Description = "Lua version 5.1",
+	Websites = {
+		"https://www.lua.org/"
+	},
+	Architecture = "32",
+	OS = "Windows",
+	LuaVER = "5.3",
+	ModVER = "5.3",
+	Dependencies = {},
+	FileIndex = {
+		{"lua.exe","FILE","COMMON"},
+		{"lua53.dll","FILE","COMMON"},
+		{"luac.exe","FILE","COMMON"},
+	}
+}
