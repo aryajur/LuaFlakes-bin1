@@ -14,6 +14,14 @@
 		{"mime.lua","FILE","COMMON"},
 		{"ltn12.lua","FILE","COMMON"},
 		{"socket","DIR","COMMON"},
+		{"socket/core.dll","FILE","COMMON"},
+		{"socket/ftp.lua","FILE","COMMON"},
+		{"socket/headers.lua","FILE","COMMON"},
+		{"socket/http.lua","FILE","COMMON"},
+		{"socket/smtp.lua","FILE","COMMON"},
+		{"socket/tp.lua","FILE","COMMON"},
+		{"socket/url.lua","FILE","COMMON"},
 		{"mime","DIR","COMMON"},
+		{"mime/core.dll","FILE","COMMON"},
 	}
 }

@@ -16,6 +16,7 @@
 		{"libssl-3.dll","FILE","COMMON"},
 		{"ssl.dll","FILE","COMMON"},
 		{"ssl.lua","FILE","COMMON"},
-		{"ssl","DIR","COMMON"}
+		{"ssl","DIR","COMMON"},
+		{"ssl/https.lua","FILE","COMMON"}
 	}
 }
