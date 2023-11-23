@@ -1,4 +1,5 @@
 {
+	Name = "LuaSec",
 	Description = "LuaSec is a binding for OpenSSL library to provide TLS/SSL communication. It takes an already established TCP connection and creates a secure session between the peers.",
 	Websites = {
 		"https://github.com/lunarmodules/luasec"

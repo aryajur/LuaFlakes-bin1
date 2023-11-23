@@ -1,4 +1,5 @@
 {
+	Name = "Lua".
 	Description = "Lua version 5.1",
 	Websites = {
 		"https://www.lua.org/"
@@ -12,5 +13,7 @@
 		{"lua.exe","FILE","COMMON"},
 		{"lua53.dll","FILE","COMMON"},
 		{"luac.exe","FILE","COMMON"},
+		{"libgcc_s_dw2-1.dll","FILE","COMMON"},
+		{"libwinpthread-1.dll","FILE","COMMON"},
 	}
 }
