@@ -1,5 +1,5 @@
 {
-	Name = "Lua".
+	Name = "Lua",
 	Description = "Lua version 5.1",
 	Websites = {
 		"https://www.lua.org/"
